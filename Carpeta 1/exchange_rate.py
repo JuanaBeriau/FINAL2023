@@ -8,4 +8,4 @@ def get_xr():
     x_rate = data['oficial']['value_sell']
     return x_rate
 
-#llamo a la url y la "abro", leo el texto que hay en ella y mediante variable guardo el dato que 
+#llamo a la url y la "abro", leo el texto que hay en ella y mediante variable guardo el dato que me sirve, y lo devuelvo
